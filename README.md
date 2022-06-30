@@ -1,20 +1,27 @@
-# Student_Marks_prediction_using_linear_regression
+## Student_Marks_prediction_using_linear_regression
 
-student marks predictor using python and linear regression 
+**student marks predictor using python and linear regression** 
 
-- libraries required
+ - ***libraries required***
   
-  -numpy(array manipulation)
+  - numpy(array manipulation)
   
-  -pandas(data manipulation)
+  - pandas(data manipulation)
   
-  -plotly (graphical representation of data)
+  - plotly (graphical representation of data)
   
-  -sklearn(basic library containing graphical models(esentially linear regresion for scope of this project) and tools)
+  - sklearn(basic library containing graphical models(esentially linear regresion for scope of this project) and tools)
  
  
 -installing libraries
     
     pip install ._package_name_.
     
+-DATA SETS
+    
+  -Obtained using survey **/** (Can Also be obtained from premade datasets)
+  
+  -i have uploaded the one used by me
+  
+  
  
